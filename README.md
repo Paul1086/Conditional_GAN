@@ -6,5 +6,7 @@ Conditional generative adversarial network (cGAN) on CelebA dataset is implement
 
 Evaluation Metric:
 
-FID Score: 15.69\\
+FID Score: 15.69
+
+
 IS Score: 2.12
